@@ -1,0 +1,86 @@
+Log created: 2023-01-11 12:12:05
+Type: backup
+[2023-01-11 12:12:06][notice]Start backing up.
+[2023-01-11 12:12:06][notice]server info fcgi:Off max execution time: 900 wp version:6.1 php version:8.1.10 db version:10.4.25 php ini:safe_mode: memory_limit:256M memory_get_usage:72,44 MB memory_get_peak_usage:76,68 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-01-11 12:12:06][notice]Prepare to backup backup_db files.
+[2023-01-11 12:12:06][notice]Start exporting database.
+[2023-01-11 12:12:06][notice]max_allowed_packet less than 32M :1,00 MB
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_actionscheduler_actions
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_actionscheduler_claims
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_actionscheduler_groups
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_actionscheduler_logs
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_commentmeta
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_comments
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_export_page_to_html_logs
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_export_urls_logs
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_e_events
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_links
+[2023-01-11 12:12:06][notice]Preparing to dump table wp01_options
+[2023-01-11 12:12:07][notice]Preparing to dump table wp01_postmeta
+[2023-01-11 12:12:07][notice]Preparing to dump table wp01_posts
+[2023-01-11 12:12:07][notice]Preparing to dump table wp01_termmeta
+[2023-01-11 12:12:07][notice]Preparing to dump table wp01_terms
+[2023-01-11 12:12:07][notice]Preparing to dump table wp01_term_relationships
+[2023-01-11 12:12:07][notice]Preparing to dump table wp01_term_taxonomy
+[2023-01-11 12:12:07][notice]Preparing to dump table wp01_usermeta
+[2023-01-11 12:12:07][notice]Preparing to dump table wp01_users
+[2023-01-11 12:12:07][notice]Preparing to dump table wp01_wpforms_tasks_meta
+[2023-01-11 12:12:07][notice]Preparing to dump table wp01_wpvivid_options
+[2023-01-11 12:12:07][notice]Exporting database finished.
+[2023-01-11 12:12:07][notice]Start compressing backup_db
+[2023-01-11 12:12:07][notice]Prepare to zip files. file: localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_db.zip
+[2023-01-11 12:12:07][notice]Adding zip files completed.localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_db.zip, filesize: 13,76 MB
+[2023-01-11 12:12:07][notice]Compressing backup_db completed
+[2023-01-11 12:12:07][notice]Backing up backup_db completed.
+[2023-01-11 12:12:07][notice]Prepare to backup backup_themes files.
+[2023-01-11 12:12:07][notice]File number: 1059
+[2023-01-11 12:12:07][notice]Start compressing backup_themes
+[2023-01-11 12:12:07][notice]Prepare to zip files. file: localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_themes.zip
+[2023-01-11 12:12:23][notice]Adding zip files completed.localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_themes.zip, filesize: 38,99 MB
+[2023-01-11 12:12:23][notice]Compressing backup_themes completed
+[2023-01-11 12:12:23][notice]Backing up backup_themes completed.
+[2023-01-11 12:12:23][notice]Prepare to backup backup_plugin files.
+[2023-01-11 12:12:23][notice]File number: 3868
+[2023-01-11 12:12:23][notice]Start compressing backup_plugin
+[2023-01-11 12:12:25][notice]Prepare to zip files. file: localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_plugin.zip
+[2023-01-11 12:12:56][notice]Adding zip files completed.localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_plugin.zip, filesize: 48,97 MB
+[2023-01-11 12:12:56][notice]Compressing backup_plugin completed
+[2023-01-11 12:12:56][notice]Backing up backup_plugin completed.
+[2023-01-11 12:12:56][notice]Prepare to backup backup_uploads files.
+[2023-01-11 12:12:56][notice]File number: 128
+[2023-01-11 12:12:56][notice]Start compressing backup_uploads
+[2023-01-11 12:12:56][notice]Prepare to zip files. file: localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_uploads.zip
+[2023-01-11 12:12:58][notice]Adding zip files completed.localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_uploads.zip, filesize: 50,43 MB
+[2023-01-11 12:12:58][notice]Compressing backup_uploads completed
+[2023-01-11 12:12:58][notice]Backing up backup_uploads completed.
+[2023-01-11 12:12:58][notice]Prepare to backup backup_content files.
+[2023-01-11 12:12:58][notice]File number: 72
+[2023-01-11 12:12:58][notice]Start compressing backup_content
+[2023-01-11 12:12:58][notice]Prepare to zip files. file: localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_content.zip
+[2023-01-11 12:12:58][notice]Adding zip files completed.localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_content.zip, filesize: 2,87 MB
+[2023-01-11 12:12:58][notice]Compressing backup_content completed
+[2023-01-11 12:12:58][notice]Backing up backup_content completed.
+[2023-01-11 12:12:58][notice]Prepare to backup backup_core files.
+[2023-01-11 12:12:58][notice]File number: 2527
+[2023-01-11 12:12:58][notice]Start compressing backup_core
+[2023-01-11 12:12:59][notice]Prepare to zip files. file: localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_core.zip
+[2023-01-11 12:13:54][notice]Adding zip files completed.localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_core.zip, filesize: 49,81 MB
+[2023-01-11 12:13:54][notice]Compressing backup_core completed
+[2023-01-11 12:13:54][notice]Backing up backup_core completed.
+[2023-01-11 12:13:54][notice]Prepare to backup backup_merge files.
+[2023-01-11 12:13:54][notice]File number: 6
+[2023-01-11 12:13:54][notice]Start compressing backup_merge
+[2023-01-11 12:13:54][notice]Prepare to zip files. file: localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_all.part001.zip
+[2023-01-11 12:14:02][notice]Adding zip files completed.localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_all.part001.zip, filesize: 89,23 MB
+[2023-01-11 12:14:02][notice]Cleaned up file, filename: C:\xampp\htdocs\srodkiczystosci01/wp-content\wpvividbackups\localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_uploads.zip
+[2023-01-11 12:14:02][notice]Cleaned up file, filename: C:\xampp\htdocs\srodkiczystosci01/wp-content\wpvividbackups\localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_core.zip
+[2023-01-11 12:14:02][notice]Cleaned up file, filename: C:\xampp\htdocs\srodkiczystosci01/wp-content\wpvividbackups\localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_plugin.zip
+[2023-01-11 12:14:02][notice]Cleaned up file, filename: C:\xampp\htdocs\srodkiczystosci01/wp-content\wpvividbackups\localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_themes.zip
+[2023-01-11 12:14:02][notice]Prepare to zip files. file: localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_all.part002.zip
+[2023-01-11 12:14:02][notice]Adding zip files completed.localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_all.part002.zip, filesize: 16,64 MB
+[2023-01-11 12:14:02][notice]Cleaned up file, filename: C:\xampp\htdocs\srodkiczystosci01/wp-content\wpvividbackups\localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_db.zip
+[2023-01-11 12:14:02][notice]Cleaned up file, filename: C:\xampp\htdocs\srodkiczystosci01/wp-content\wpvividbackups\localhost_srodkiczystosci01_wpvivid-63be998599fbb_2023-01-11-12-12_backup_content.zip
+[2023-01-11 12:14:02][notice]Compressing backup_merge completed
+[2023-01-11 12:14:02][notice]Backing up backup_merge completed.
+[2023-01-11 12:14:02][notice]Backup completed.
+[2023-01-11 12:14:02][notice]Backup succeeded.
