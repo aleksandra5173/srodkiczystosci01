@@ -125,7 +125,7 @@ class extract_stylesheets
                                 $data = \str_replace($image, $path_to_dot . 'css/' . $url_basename, $data);
                             }
 
-                            if (!file_exists($my_file)) {
+                            if (isset($my_file) && !file_exists($my_file)) {
                                 $this->admin->saveFile($item_url, $my_file);
                             }
                             else{

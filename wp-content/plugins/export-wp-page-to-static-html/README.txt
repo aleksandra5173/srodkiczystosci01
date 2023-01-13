@@ -78,10 +78,13 @@ Or you can contact us on our site [https://myrecorp.com](https://myrecorp.com)
 
 == Changelog ==
 
-= 2.1.1 - 1 November 2022 =
+= 2.1.4 - 23 December 2022 =
+* Fixed a minor issue.
+
+= 2.1.3 - 1 November 2022 =
 * Fixed a major issue.
 
-= 2.1.1 - 1 November 2022 =
+= 2.1.2 - 1 November 2022 =
 * Fixed a minor issue.
 
 = 2.1.1 - 12 August 2022 =
